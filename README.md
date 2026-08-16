@@ -19,7 +19,7 @@
 ![IIT Roorkee](https://img.shields.io/badge/IIT%20Roorkee-EE%202027-1e3a8a?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=tharun99856&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS)
 
-[Overview](#overview) • [Currently Building](#currently-building) • [Stack](#stack) • [Activity](#activity) • [Contact](#contact)
+[Overview](#overview) • [Currently Building](#currently-building) • [Stack](#stack) • [Activity](#activity) • [Recent Activity](#recent-activity) • [Trophies](#trophies) • [Contact](#contact)
 
 </div>
 
@@ -29,7 +29,16 @@
 
 I'm an Electrical Engineering undergraduate at IIT Roorkee (Class of 2027), building AI-driven products solo — product, design, and code, end to end. Most of my time goes into **Edcore**, a bootstrapped academic platform helping Indian students discover exams, colleges, mentors, and career opportunities. The rest goes into smaller systems experiments, and occasionally, acting.
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00c8,50:8b00ff,100:00ffe1&height=3&section=header" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=600&color=39FF14&background=000000&center=true&vCenter=true&width=560&height=50&lines=%3E+INSERT+COIN;%3E+PLAYER+1%3A+THARUN;%3E+LOADING+STATS..." alt="Insert Coin" />
+
+</div>
+
 ## Currently Building
+### `LEVEL SELECT`
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -42,12 +51,24 @@ I'm an Electrical Engineering undergraduate at IIT Roorkee (Class of 2027), buil
 > Edcore has no funding and no team — product, engineering, and growth are all done solo. I'm also prototyping **PawFinder**, a free notice board for lost, found, and adoptable street dogs in Hyderabad, built around the city's existing feeder network.
 
 ## Stack
+### `INVENTORY`
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,python,cpp,tailwind,git&theme=dark" />
+
+<br/><br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-MAXED_OUT-39FF14?style=for-the-badge&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-MAXED_OUT-39FF14?style=for-the-badge&labelColor=000000)
+![React](https://img.shields.io/badge/React-LVL_9-00FFE1?style=for-the-badge&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-LVL_8-00FFE1?style=for-the-badge&labelColor=000000)
+![C++](https://img.shields.io/badge/C%2B%2B-LVL_6-FF00C8?style=for-the-badge&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-LVL_7-FF00C8?style=for-the-badge&labelColor=000000)
+
 </div>
 
 ## Activity
+### `HIGH SCORES`
 
 <div align="center">
 
@@ -76,9 +97,31 @@ I'm an Electrical Engineering undergraduate at IIT Roorkee (Class of 2027), buil
 
 <br/><br/>
 
+<sub>ARCADE MODE — CONTRIBUTION SNAKE</sub>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/tharun99856/tharun99856/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="90%" alt="Snake animation dark" />
 <img src="https://raw.githubusercontent.com/tharun99856/tharun99856/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="90%" alt="Snake animation light" />
 
+</div>
+
+## Recent Activity
+### `QUEST LOG`
+
+<!--START_SECTION:activity-->
+<!-- This section auto-fills once the "Update Recent Activity" workflow runs -->
+<!--END_SECTION:activity-->
+
+## Trophies
+### `ACHIEVEMENTS UNLOCKED`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tharun99856&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffe1,50:8b00ff,100:ff00c8&height=3&section=header" width="100%" />
 </div>
 
 ## Contact
