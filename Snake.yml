@@ -1,14 +1,19 @@
 name: Generate Snake Contribution Graph
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch: {}    # trigger manually from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
   push:
     branches:
       - main
 
+concurrency:
+  group: snake-gen
+  cancel-in-progress: true
+
 jobs:
   generate:
+    if: github.repository == 'tharun99856/tharun99856'
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -21,7 +26,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=%230ea5e9&color_dots=%23161b22,%230ea5e9,%231e3a8a,%2338bdf8,%23bae6fd
-
       - name: Push output to "output" branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
