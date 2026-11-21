@@ -2,6 +2,10 @@
 
 <img src="https://www.gitskins.com/api/readme-reference/hero?username=tharun99856&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Remote&v=readme-reference-2" width="100%" alt="Tharun Rathod profile banner" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/tharun99856/tharun99856/main/assets/avatar.gif" width="160" alt="Tharun Rathod" />
+
 <br/>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Building%20Edcore%20%7C%20IIT%20Roorkee%20EE%20'27%20Full-Stack%20D%E2%80%A6;Building%20with%20Python%20%C2%B7%20TypeScript%20%C2%B7%20JavaScript;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
@@ -31,10 +35,21 @@ const tharun99856: Developer = {
 };
 ```
 
+<table>
+<tr>
+<td width="200" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/tharun99856/tharun99856/main/assets/avatar.gif" width="160" alt="Tharun Rathod" />
+</td>
+<td valign="top">
+
 > Building Edcore | IIT Roorkee EE '27
-Full-Stack Developer • Product Builder • AI Workflows
-> 
+> Full-Stack Developer • Product Builder • AI Workflows
+>
 > **Collaborations welcome when they are meaningful 🤝**
+
+</td>
+</tr>
+</table>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=tharun99856&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
@@ -112,10 +127,10 @@ A featured build from this profile.
 
 <br/>
 
-- **Gocomet** — Featured work · <a href="https://github.com/tharun99856/Gocomet"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-- **flyo** — Featured work · <a href="https://github.com/tharun99856/flyo"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-- **SIP-GUARDIAN-AI-FINANCIAL-CO-PILOT** — Featured work · <a href="https://github.com/tharun99856/SIP-GUARDIAN-AI-FINANCIAL-CO-PILOT"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-- **portfolio** — Featured work · <a href="https://github.com/tharun99856/portfolio"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **Gocomet** - Featured work · <a href="https://github.com/tharun99856/Gocomet"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **flyo** - Featured work · <a href="https://github.com/tharun99856/flyo"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **SIP-GUARDIAN-AI-FINANCIAL-CO-PILOT** - Featured work · <a href="https://github.com/tharun99856/SIP-GUARDIAN-AI-FINANCIAL-CO-PILOT"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **portfolio** - Featured work · <a href="https://github.com/tharun99856/portfolio"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </details>
 
