@@ -1,1 +1,180 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCjxpbWcgc3JjPSJodHRwczovL3d3dy5naXRza2lucy5jb20vYXBpL3JlYWRtZS1yZWZlcmVuY2UvaGVybz91c2VybmFtZT10aGFydW45OTg1NiZ0aGVtZT1uZW9uJnJvbGU9RnJvbnRlbmQlMjBvciUyMGZ1bGwtc3RhY2slMjBlbmdpbmVlciZsb2NhdGlvbj1SZW1vdGUmdj1yZWFkbWUtcmVmZXJlbmNlLTIiIHdpZHRoPSIxMDAlIiBhbHQ9IlRoYXJ1biBSYXRob2QgcHJvZmlsZSBiYW5uZXIiIC8+Cgo8YnIvPjxici8+Cgo8aW1nIHNyYz0iaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3RoYXJ1bjk5ODU2L3RoYXJ1bjk5ODU2L21haW4vYXNzZXRzL2F2YXRhci5naWYiIHdpZHRoPSIxNjAiIGFsdD0iVGhhcnVuIFJhdGhvZCIgLz4KCjxici8+Cgo8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vRGVudmVyQ29kZXIxL3JlYWRtZS10eXBpbmctc3ZnIj48aW1nIHNyYz0iaHR0cHM6Ly9yZWFkbWUtdHlwaW5nLXN2Zy5kZW1vbGFiLmNvbS8/Zm9udD1PcmJpdHJvbiZ3ZWlnaHQ9NjAwJnNpemU9MjYmcGF1c2U9OTAwJmNvbG9yPTdERjlGRiZjZW50ZXI9dHJ1ZSZ2Q2VudGVyPXRydWUmZGlzYWJsZUNaQU49dHJ1ZSZ3aWR0aD05MDAmaGVpZ2h0PTY2JmxpbmVzPUZyb250ZW5kJTIwb3IlMjBmdWxsLXN0YWNrJTIwZW5naW5lZXI7QnVpbGRpbmclMjBFZGNvcmUlMjAlN0MlMjBJSVQlMjBSb29ya2VlJTIwRUUlMjAlMjcyNyUyMEZ1bGwtU3RhY2slMjAwOyBidWlsZGluZyUyMFdpdGglMjBweXRob24lMjAlQzIlQjclMjBUeXBlU2NyaXB0JTIwJUMyJUI3JTIwSmF2YVNjcmlwdDsldW5rbm93biIgYWx0PSIiIC8+PC9hPgoKPGJyLz4KCjxhIGhyZWY9Imh0dHBzOi8vcG9ydGZvbGlvLXRoYXJ1bi1ncmF5LnZlcmNlbC5hcHAiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Qb3J0Zm9saW8tN0I1Q0ZGP3N0eWxlPWZvci10aGUtYmFkZ2UmYW1wO2xhYmVsQ29sb3I9MGQxMTE3IiBhbHQ9IlBvcnRmb2xpbyIgLz48L2E+Cgo8YnIvPjxici8+Cgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Qcm9maWxlX3ZpZXdzLTdCNUNGRj9zdHlsZT1mb3ItdGhlLWJhZGdlJmFtcDtsYWJlbENvbG9yPTBkMTExNyIgYWx0PSJQcm9maWxlIHZpZXdzIiAvPgoKPC9kaXY+Cgo8ZGl2IGFsaWduPSJjZW50ZXIiPjxpbWcgc3JjPSJodHRwczovL3d3dy5naXRza2lucy5jb20vYXBpL3JlYWRtZS1yZWZlcmVuY2UvZGl2aWRlcj91c2VybmFtZT10aGFydW45OTg1NiZ0aGVtZT1uZW9uJnY9cmVhZG1lLXJlZmVyZW5jZS0yIiB3aWR0aD0iMTAwJSIgYWx0PSJTZWN0aW9uIGRpdmlkZXIiIC8+PC9kaXY+CgojIyDimaQgd2hvYW1pCgpgYGB0eXBlc2NyaXB0CmNvbnN0IHRoYXJ1bjk5ODU2OiBEZXZlbG9wZXIgPSB7CiAgbmFtZTogICAgICAiVGhhcnVuIFJhdGhvZCIsCiAgcm9sZTogICAgICAiRnVudC1zdGFjayBlbmdpbmVlciBvciBmdWxsLXN0YWNrIGVuZ2luZWVyIiwKICBsb2NhdGlvbjogICJSZW1vdGUiLAogIGN1cnJlbnRseTogImJ1aWxkaW5nIGluIHB1YmxpYyIsCiAgc3RhY2s6ICAgICBbIlB5dGhvbiIsICJUeXBlU2NyaXB0IiwgIkphdmFTY3JpcHQiLCAiSFRNTCIsICJUZVgiLCAiQ1NTIl0sCiAgbWFudHJhOiAgICAiTWFrZSB1c2VmdWwgdGhpbmdzLCB0aGVuIG1ha2UgdGhlbSBkZWxpZ2h0ZnVsIPCfmoAiLAp9OwpgYGAKCjx0YWJsZT4KPHRyPgo8dGQgd2lkdGg9IjIwMCIgYWxpZ249ImNlbnRlciIgdmFsaWduPSJtaWRkbGUiPgogIDxpbWcgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdGhhcnVuOTk4NTYvdGhhcnVuOTk4NTYvbWFpbi9hc3NldHMvYXZhdGFyLmdpZiIgd2lkdGg9IjE2MCIgYWx0PSJUaGFydW4gUmF0aG9kIiAvPgo8L3RkPgo8dGQgdmFsaWduPSJ0b3AiPgoKPiBCdWlsZGluZyBFZGNvcmUgfCBJSVQgUm9vcmtlZSBFRSAnMjcKPiBGdWxsLVN0YWNrIERldmVsb3BlciDigKIgUHJvZHVjdCBCdWlsZGVyIOKAoiBBSSBXb3JrZmxvd3MKPgo+ICoqQ29sbGFib3JhdGlvbnMgd2VsY29tZSB3aGVuIHRoZXkgYXJlIG1lYW5pbmdmdWwg8J+knSoqCgo8L3RkPgo8L3RyPgo8L3RhYmxlPgoKPGRpdiBhbGlnbj0iY2VudGVyIj48aW1nIHNyYz0iaHR0cHM6Ly93d3cuZ2l0c2tpbnMuY29tL2FwaS9yZWFkbWUtcmVmZXJlbmNlL2RpdmlkZXI/dXNlcm5hbWU9dGhhcnVuOTk4NTYmdGhlbWU9bmVvbiZ2PXJlYWRtZS1yZWZlcmVuY2UtMiIgd2lkdGg9IjEwMCUiIGFsdD0iU2VjdGlvbiBkaXZpZGVyIiAvPjwvZGl2PgoKIyMg4pqU77iPIFRlY2ggQXJzZW5hbAoKPGRpdiBhbGlnbj0iY2VudGVyIj4KCjxpbWcgc3JjPSJodHRwczovL3NraWxsaWNvbnMuZGV2L2ljb25zP2k9cHl0aG9uJTJDdHlwZXNjcmlwdCUyQ2phdmFzY3JpcHQlMkNodG1sJTJDY3NzJTJCdXB5dGVyJnBlcmxpbmU9OCZ0aGVtZT1kYXNrIiBhbHQ9IlRlY2ggc3RhY2siIC8+Cgo8YnIvPjxici8+CgoqKrCfnoAgQUkgLyBNTCAmbmJzcDt3ciB0aHU7IM+J77iPIEF1dG9tYXRpb24qKgoKPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUHl0aG9uLTM1NzJBNT9zdHlsZT1mb3ItdGhlLWJhZGdlJmFtcDtsYWJlbENvbG9yPTBkMTExNyIgYWx0PSJQeXRob24iIC8+IDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1R5cGVTY3JpcHQtMzE3OGM2P3N0eWxlPWZvci10aGUtYmFkZ2UmYW1wO2xhYmVsQ29sb3I9MGQxMTE3IiBhbHQ9IlR5cGVTY3JpcHQiIC8+IDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0phdmFTY3JpcHQtZjFlMDVhP3N0eWxlPWZvci10aGUtYmFkZ2UmYW1wO2xhYmVsQ29sb3I9MGQxMTE3IiBhbHQ9IkphdmFTY3JpcHQiIC8+IDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0hUTUwtZTM0YzI2P3N0eWxlPWZvci10aGUtYmFkZ2UmYW1wO2xhYmVsQ29sb3I9MGQxMTE3IiBhbHQ9IkhUTUwiIC8+IDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1RlWC0zRDYxMTc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZhbXA7bGFiZWxDb2xvcj0wZDExMTciIGFsdD0iVGVYIiAvPiA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9DU1MtNjYzMzk5P3N0eWxlPWZvci10aGUtYmFkZ2UmYW1wO2xhYmVsQ29sb3I9MGQxMTE3IiBhbHQ9IkNTUyIgLz4gPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUExwZ1NRTC0zMzY3OTA/c3R5bGU9Zm9yLXRoZS1iYWRnZSZhbXA7bGFiZWxDb2xvcj0wZDExMTciIGFsdD0iUExwZ1NRTCIgLz4gPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvSnVweXRlcl9Ob3RlYm9vay1EQTVCMEI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZhbXA7bGFiZWxDb2xvcj0wZDExMTciIGFsdD0iSnVweXRlciBOb3RlYm9vayIgLz4KCjwvZGl2PgoKPGRpdiBhbGlnbj0iY2VudGVyIj48aW1nIHNyYz0iaHR0cHM6Ly93d3cuZ2l0c2tpbnMuY29tL2FwaS9yZWFkbWUtcmVmZXJlbmNlL2RpdmlkZXI/dXNlcm5hbWU9dGhhcnVuOTk4NTYmdGhlbWU9bmVvbiZ2PXJlYWRtZS1yZWZlcmVuY2UtMiIgd2lkdGg9IjEwMCUiIGFsdD0iU2VjdGlvbiBkaXZpZGVyIiAvPjwvZGl2PgoKIyMg8J+MjCBGb2N1cyBQcm9qZWN0cwoKPHRhYmxlPgo8dHI+Cjx0ZCB3aWR0aD0iNTAlIiB2YWxpZ249InRvcCI+CgoqKnJ1bmUqKgoKQW4gb3B0aW1pemluZyBjb21waWxlciB0aGF0IGNob29zZXMgYW4gYWxnbyByaXRobSBmcm9tIGludGVudCBhbmQgcHJvdmVzIGl0IGNvcnJlY3QuIERlc2NyaWJlIHdoYXQgeW91IHdhbnQ7IGl0IHBpY2tzIGhlYXAgdnMgc29ydCwgQkZTIHZzIERpaWtzdHJhLCBLYWRhbmUsIGFuZCBtb3JlLgoKYFB5dGhvbmAgwrcgYDQgc3RhcnNgCgphIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS90aGFydW45OTg1Ni9ydW5lIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Db2RlLTE4MTcxNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmFtcDtsYWJlbENvbG9yPTBkMTExNyIgYWx0PSJDb2RlIiAvPjwvYT4KCjwvdGQ+Cjx0ZCB3aWR0aD0iNTAlIiB2YWxpZ249InRvcCI+CgoqKmRyYW1hZGFwdC1xYSoqCgpEcmFtQWRhcHQgUUEgaXMgYSBwcmUtZHViYmmluZyBxdWFsaXR5IGdhdGUgZm9yIEVuZ2xpc2gg4oaSIFRlbHVndSBtaWNyb2RyYW1hIGRpYWxvZ3VlLCBzY2VuZS1iYXRjaGVkIHdpdGggbWVhc3VyZWQgdG9rZW4gY29zdCBhbmQgYSBodW1hbiBlZGl0b3IgYXMgZmluYWwgZ2F0ZS4KCmBQeXRob25gIMK3IGAwIHN0YXJzYAoKPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3RoYXJ1bjk5ODU2L2RyYW1hZGFwdC1xYSI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvQ29kZS0xODE3MTc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZhbXA7bGFiZWxDb2xvcj0wZDExMTciIGFsdD0iQ29kZSIgLz48L2E+Cgo8L3RkPgo8L3RyPgo8dHI+Cjx0ZCB3aWR0aD0iNTAlIiB2YWxpZ249InRvcCI+CgoqKlNJUC1HVUFSRElBTi1BSS1GSU5BTkNJQUwtQ08tUElMT1QqKgoKQW4gQUktcG93ZXJlZCBmaW5hbmNpYWwgY29waWxvdCBmb3Igc21hcnRlciB0cmFja2luZyBhbmQgcGxhbm5pbmcuCgpgVHlwZVNjcmlwdGAgwrcgYDAgc3RhcnNgCgphIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS90aGFydW45OTg1Ni9TSVAtR1VBUkRJQU4tQUktRklOQU5DSUFMLUNPLVBJTE9UIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Db2RlLTE4MTcxNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmFtcDtsYWJlbENvbG9yPTBkMTExNyIgYWx0PSJDb2RlIiAvPjwvYT4KCjwvdGQ+Cjx0ZCB3aWR0aD0iNTAlIiB2YWxpZ249InRvcCI+CgoqKnRyYXZlbGNoZWNrZXIqKgoKTXVsdGktbW9kYWwgVHJhdmVsIENvbXBhcmlzb24gZW5naW5lIGZvciBJbmRpYSB3aXRoIGEgTVNQIHNlcnZlciwgUkVTVCBBUEksIGFuZCBkYXNoYm9hcmQuIAoKYFR5cGVTcHJpcHRgIMK3IGAwIHN0YXJzYAoKPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3RoYXJ1bjk5ODU2L1RyYXZlbENoZWNrZXIiPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0NvZGUtMTgxNzE3P3N0eWxlPWZvci10aGUtYmFkZ2UmYW1wO2xhYmVsQ29sb3I9MGQxMTE3IiBhbHQ9IkNvZGUiIC8+PC9hPgoKPC90ZD4KPC90cj4KPC90YWJsZT4KCjxkaXYgYWxpZ249ImNlbnRlciI+PGltZyBzcmM9Imh0dHBzOi8vd3d3LmdpdHNraW5zLmNvbS9hcGkvcmVhZG1lLXJlZmVyZW5jZS9kaXZpZGVyP3VzZXJuYW1lPXRoYXJ1bjk5ODU2JnRoZW1lPW5lb24mdj1yZWFkbWUtcmVmZXJlbmNlLTIiIHdpZHRoPSIxMDAlIiBhbHQ9IlNlY3Rpb24gZGl2aWRlciIgLz48L2Rpdj4KCiMjIPCfk4ogR2l0SHViIFN0YXRzCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgoKPGltZyBzcmM9Imh0dHBzOi8vd3d3LmdpdHNraW5zLmNvbS9hcGkvc2VjdGlvbi9zdGF0cz91c2VybmFtZT10aGFydW45OTg1NiZ0aGVtZT1uZW9uJnY9bmVvbi1jaXJjdWl0LXN0YXRzLTEiIHdpZHRoPSIxMDAlIiBhbHQ9IkdpdEh1YiBzdGF0cyIgLz4KCjxici8+Cgo8aW1nIHNyYz0iaHR0cHM6Ly93d3cuZ2l0c2tpbnMuY29tL2FwaS9zZWN0aW9uL2hlYXRtYXA/dXNlcm5hbWU9dGhhcnVuOTk4NTYmdGhlbWU9bmVvbiZzdHlsZT1hdXJhIiB3aWR0aD0iMTAwJSIgYWx0PSJDb250cmlidXRpb24gYWN0aXZpdHkiIC8+Cgo8L2Rpdj4KCjxkaXYgYWxpZ249ImNlbnRlciI+PGltZyBzcmM9Imh0dHBzOi8vd3d3LmdpdHNraW5zLmNvbS9hcGkvcmVhZG1lLXJlZmVyZW5jZS9kaXZpZGVyP3VzZXJuYW1lPXRoYXJ1bjk5ODU2JnRoZW1lPW5lb24mdj1yZWFkbWUtcmVmZXJlbmNlLTIiIHdpZHRoPSIxMDAlIiBhbHQ9IlNlY3Rpb24gZGl2aWRlciIgLz48L2Rpdj4KCiMjIPCfj4YgQmV5b25kIHRoZSBDb2RlCgoqIPCfp6AgKipQcm9maWxlIHNpZ25hbDoqKiA4NzYgY29udHJpYnV0aW9ucyBpbiB0aGUgbGFzdCB5ZWFyCiog8J+agCAqKkJ1aWxkZXIgZW5lcmd5OioqIDIzIHB1YmxpYyByZXBvc2l0b3JpZXMKKiDirZAgKipDb21tdW5pdHkgc2lnbmFsOioqIDUgc3RhcnMgYWNyb3NzIGZlYXR1cmVkIHdvcmsKKiDwn5ej77iPICoqT3BlbiB0bzoqKiBpbnRlcmVzdGluZyBjb2xsYWJvcmF0aW9ucyBhbmQgdXNlZnVsIHByb2R1Y3RzCgo8ZGl2IGFsaWduPSJjZW50ZXIiPjxpbWcgc3JjPSJodHRwczovL3d3dy5naXRza2lucy5jb20vYXBpL3JlYWRtZS1yZWZlcmVuY2UvZGl2aWRlcj91c2VybmFtZT10aGFydW45OTg1NiZ0aGVtZT1uZW9uJnY9cmVhZG1lLXJlZmVyZW5jZS0yIiB3aWR0aD0iMTAwJSIgYWx0PSJTZWN0aW9uIGRpdmlkZXIiIC8+PC9kaXY+Cgo8ZGl2IGFsaWduPSJjZW50ZXIiPgoKIyMg8J+knSBMZXQncyBCdWlsZCBTb21ldGhpbmcgTWVhbmluZ2Z1bAoKSSBidWlsZCB1c2VmdWwgc29mdHdhcmUgYW5kIGVuam95IHR1cm5pbmcgYW1iaXRpb3VzIGlkZWFzIGludG8gd29ya2luZyBwcm9kdWN0cy4KCjxhIGhyZWY9Imh0dHBzOi8vcG9ydGZvbGlvLXRoYXJ1bi1ncmF5LnZlcmNlbC5hcHAiPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1BvcnRmb2xpby03QjVDVkY/c3R5bGU9Zm9yLXRoZS1iYWRnZSZhbXA7bGFiZWxDb2xvcj0wZDExMTciIGFsdD0iUG9ydGZvbGlvIiAvPjwvYT4KCjxici8+PGJyLz4KCioqKOKtkCBGcm9tIFtUaGFydW4gUmF0aG9kXShodHRwczovL2dpdGh1Yi5jb20vdGhhcnVuOTk4NTYpIMK3IGJ1aWx0IHdpdGggY29kZSwgQUkgJiBhIGxpdHRsZSBjaGFvcyDwn5iCKioqKgoKPC9kaXY+Cg==
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=tharun99856&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Remote&v=readme-reference-2" width="100%" alt="Tharun Rathod profile banner" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/tharun99856/tharun99856/main/assets/avatar.gif" width="160" alt="Tharun Rathod" />
+
+<br/>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Building%20Edcore%20%7C%20IIT%20Roorkee%20EE%20'27%20Full-Stack%20D%E2%80%A6;Building%20with%20Python%20%C2%B7%20TypeScript%20%C2%B7%20JavaScript;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
+<br/>
+
+<a href="https://portfolio-tharun-gray.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/1_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="1 followers" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=tharun99856&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚡ whoami
+
+```typescript
+const tharun99856: Developer = {
+  name:      "Tharun Rathod",
+  role:      "Frontend or full-stack engineer",
+  location:  "Remote",
+  currently: "building in public",
+  stack:     ["Python", "TypeScript", "JavaScript", "HTML", "TeX", "CSS"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
+```
+
+<table>
+<tr>
+<td width="200" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/tharun99856/tharun99856/main/assets/avatar.gif" width="160" alt="Tharun Rathod" />
+</td>
+<td valign="top">
+
+> Building Edcore | IIT Roorkee EE '27
+> Full-Stack Developer • Product Builder • AI Workflows
+>
+> **Collaborations welcome when they are meaningful 🤝**
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=tharun99856&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python%2Ctypescript%2Cjavascript%2Chtml%2Ccss%2Cjupyter&perline=8&theme=dark" alt="Tech stack" />
+
+<br/><br/>
+
+**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
+
+<img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&amp;labelColor=0d1117" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/TeX-3D6117?style=for-the-badge&amp;labelColor=0d1117" alt="TeX" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" /> <img src="https://img.shields.io/badge/PLpgSQL-336790?style=for-the-badge&amp;labelColor=0d1117" alt="PLpgSQL" /> <img src="https://img.shields.io/badge/Jupyter_Notebook-DA5B0B?style=for-the-badge&amp;labelColor=0d1117" alt="Jupyter Notebook" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=tharun99856&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🌌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**rune**
+
+An optimizing compiler that chooses your algorithm from intent, and proves it correct. Describe what you want; it picks heap vs sort, BFS vs Dijkstra, Kadane, and more.
+
+`Python` · `4 stars`
+
+<a href="https://github.com/tharun99856/rune"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**respondant.github.io**
+
+A featured build from this profile.
+
+`HTML` · `1 stars`
+
+<a href="https://github.com/tharun99856/respondant.github.io"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**dramadapt-qa**
+
+DramAdapt QA: a pre-dubbing quality gate for English -&gt; Telugu microdrama dialogue. Five checks + an unstructured control, scene-batched, with measured token cost and a human editor as the final gate.
+
+`Python` · `0 stars`
+
+<a href="https://github.com/tharun99856/dramadapt-qa"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**Oh-my-god**
+
+A featured build from this profile.
+
+`Python` · `0 stars`
+
+<a href="https://github.com/tharun99856/Oh-my-god"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
+
+<br/>
+
+- **Gocomet** - Featured work · <a href="https://github.com/tharun99856/Gocomet"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **flyo** - Featured work · <a href="https://github.com/tharun99856/flyo"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **SIP-GUARDIAN-AI-FINANCIAL-CO-PILOT** - Featured work · <a href="https://github.com/tharun99856/SIP-GUARDIAN-AI-FINANCIAL-CO-PILOT"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **portfolio** - Featured work · <a href="https://github.com/tharun99856/portfolio"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</details>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=tharun99856&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=tharun99856&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
+
+<br/>
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=tharun99856&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=tharun99856&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tharun99856&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F207789255%3Fu%3Dc1dd35f145cb6fca51a5d30aefa949efd760a632%26v%3D4" alt="tharun99856 heatmap visual" />
+</p>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=tharun99856&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🏆 Beyond the Code
+
+* 🧠 **Profile signal:** 876 contributions in the last year
+* 🚀 **Builder energy:** 23 public repositories
+* ⭐ **Community signal:** 5 stars across featured work
+* 🗣️ **Open to:** interesting collaborations and useful products
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=tharun99856&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<div align="center">
+
+## 🤝 Let's Build Something Meaningful
+
+I build useful software and enjoy turning ambitious ideas into working products.
+
+<a href="https://portfolio-tharun-gray.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Portfolio" /></a>
+
+<br/><br/>
+
+***⭐ From [Tharun Rathod](https://github.com/tharun99856) · built with code, AI & a little chaos 😈***
+
+</div>
